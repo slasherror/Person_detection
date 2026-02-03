@@ -14,7 +14,7 @@ This repository contains  a lightweight neural network framework written in **C*
 
 | Input | Output |
 |---|---|
-| ![input](input.jpg) | ![output](final output.jpg) |
+| ![input](input.jpg) | ![output](final%20output.jpg) |
 
 ## Quick start (Linux)
 
