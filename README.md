@@ -12,9 +12,21 @@ This repository contains  a lightweight neural network framework written in **C*
 ---
 ## Demo
 
-| Input | Output |
-|---|---|
-| ![input](input.jpg) | ![output](final%20output.jpg) |
+<table>
+   <tr>
+      <th>Input</th>
+      <th>Output</th>
+   </tr>
+   <tr>
+      <td><img src="assets/input.jpg" alt="Input" width="45%" /></td>
+      <td><img src="assets/final_output.jpg" alt="Output" width="45%" /></td>
+   </tr>
+   <tr>
+      <td colspan="2" style="text-align:center; font-size: 0.9em;">
+         Place your images in <code>assets/</code> as <code>input.jpg</code> and <code>final_output.jpg</code>.
+      </td>
+   </tr>
+</table>
 
 ## Quick start (Linux)
 
