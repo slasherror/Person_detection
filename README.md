@@ -10,6 +10,11 @@ This repository contains  a lightweight neural network framework written in **C*
 > - Dockerfiles for CPU/GPU builds
 
 ---
+## Demo
+
+| Input | Output |
+|---|---|
+| ![input](input.jpg) | ![output](final output.jpg) |
 
 ## Quick start (Linux)
 
